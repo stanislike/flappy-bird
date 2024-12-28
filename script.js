@@ -6,10 +6,10 @@ img.src = "./media/flappy-bird-set.png";
 
 // general Settings
 let gamePlaying = false;
-const gravity = 0.1;
-const speed = 1.5;
+const gravity = 0.5;
+const speed = 6.2;
 const size = [51, 36];
-const jump = -5;
+const jump = -11.5;
 const cTenth = canvas.width / 10;
 
 // pipe Settings
